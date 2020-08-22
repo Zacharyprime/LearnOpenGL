@@ -1,0 +1,4 @@
+Goals for Project:
+
+[ ] - Create a Blank window with a title
+[ ] - Draw a triangle or other shape on the screen.
